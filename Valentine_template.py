@@ -133,12 +133,12 @@
         <div class="letter">
             <div class="message">
                 <h1> Hey ❤️, </h1>
-                <p>.......✨.</p>
-                <p>....... but I promise I'm paying attention.</p>
-                <p>But I'm pretty good at one thing - knowing that you're my favorite part of every single day 💫.</p>
-                <p>I'm out of words...🤍.</p>
+                <p>.....✨.</p>
+                <p>..........</p>
+                <p>..............💫.</p>
+                <p>....................🤍.</p>
                 <p>Yours,</p>
-                <p>Utkarsh</p>
+                <p>(name)</p>
                 <p>P.S. Happy Valentine's Day, my favorite person 💝</p>
             </div>
         </div>
